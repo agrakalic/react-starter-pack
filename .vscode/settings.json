@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": [
+    "./{PATH_TO_CLIENT}" // replace {PATH_TO_CLIENT} with you own path
+  ]
+}
